@@ -1,0 +1,4 @@
+[2018-04-17T14:36:35.417] [INFO] test2 - Cheese is Gouda.
+[2018-04-17T14:36:35.420] [WARN] test2 - Cheese is quite smelly.
+[2018-04-17T14:36:35.420] [ERROR] test2 - Cheese is too ripe!
+[2018-04-17T14:36:35.420] [FATAL] test2 - Cheese was breeding ground for listeria.

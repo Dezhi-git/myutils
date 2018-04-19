@@ -1,0 +1,15 @@
+[2018-04-17T14:25:48.925] [DEBUG] cheese - Got cheese.
+[2018-04-17T14:25:48.927] [INFO] cheese - Cheese is Gouda.
+[2018-04-17T14:25:48.927] [WARN] cheese - Cheese is quite smelly.
+[2018-04-17T14:25:48.927] [ERROR] cheese - Cheese is too ripe!
+[2018-04-17T14:25:48.927] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2018-04-17T14:35:17.261] [DEBUG] cheese - Got cheese.
+[2018-04-17T14:35:17.262] [INFO] cheese - Cheese is Gouda.
+[2018-04-17T14:35:17.262] [WARN] cheese - Cheese is quite smelly.
+[2018-04-17T14:35:17.262] [ERROR] cheese - Cheese is too ripe!
+[2018-04-17T14:35:17.262] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2018-04-17T14:36:15.948] [DEBUG] default - Got cheese.
+[2018-04-17T14:36:15.950] [INFO] default - Cheese is Gouda.
+[2018-04-17T14:36:15.950] [WARN] default - Cheese is quite smelly.
+[2018-04-17T14:36:15.950] [ERROR] default - Cheese is too ripe!
+[2018-04-17T14:36:15.950] [FATAL] default - Cheese was breeding ground for listeria.
